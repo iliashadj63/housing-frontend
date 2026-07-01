@@ -8,11 +8,7 @@ st.markdown("Entrez les caractéristiques du logement pour estimer sa valeur.")
 
 # TRÈS IMPORTANT : Remplace cette URL par celle de ton API sur Codespaces
 # Elle doit ressembler à https://<ton-nom>-8000.app.github.dev/predict
-<<<<<<< HEAD
 API_URL = "https://fictional-giggle-4gvg7q977q73j4r-8000.app.github.dev/" 
-=======
-API_URL = "https://legendary-space-engine-rw995wp5rj7h54rj-8000.app.github.dev" 
->>>>>>> 8b3a29fd8b92f36df3aa65f4f03d6309313642e0
 
 # Organisation en deux colonnes pour une meilleure UI
 col1, col2 = st.columns(2)
